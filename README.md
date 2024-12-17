@@ -36,9 +36,9 @@ Printed Circuit Boards (PCBs) are critical to modern electronics, and ensuring t
 ## Resources  
 The following resources provide an in-depth understanding of the project:  
 - **Pre-recorded Presentation Video**: [https://youtu.be/6wOLosJtdQU](#)  
-- **Presentation Slides**: [View Slides](#)  
-- **Project Report**: [Read Report](#)  
-- **Dataset**: [Download Dataset](#)  
+- **Presentation Slides**: [https://drive.google.com/drive/folders/1UIT_l_uJYJ-Msn_UYFMyZAYzy-znYlam?usp=drive_link](#)  
+- **Project Report**: [https://drive.google.com/drive/folders/1UIT_l_uJYJ-Msn_UYFMyZAYzy-znYlam?usp=drive_link](#)  
+- **Dataset**: [https://drive.google.com/drive/folders/1UIT_l_uJYJ-Msn_UYFMyZAYzy-znYlam?usp=drive_link](#)  
 - **Demo Videos**:  
   - **YOLOv8 Demo**: [https://youtu.be/FNiq21_wGOU](#)  
   - **Faster R-CNN ResNet Demo**: [https://youtu.be/L3wnNZCD-ME](#)
